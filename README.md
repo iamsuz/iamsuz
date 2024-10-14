@@ -5,5 +5,5 @@ Welcome to my little corner of the internet! 🌐 I'm a passionate engineer with
 ---
 
 🔭 **Currently Working On:**
-- 3D Asset management (link-to-your-project): A brief description of what it does and why I'm excited about it!
+- 3D Asset management
 
