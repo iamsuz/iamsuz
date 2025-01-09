@@ -1,4 +1,4 @@
-### 👋 Hello, World! I'm S!
+### 👋 Hello, World! I'm Sujit!
 
 Welcome to my little corner of the internet! 🌐 I'm a passionate engineer with a love for the Internet. This repository is like my digital scrapbook, where I share bits and pieces of my journey!
 
